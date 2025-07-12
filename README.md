@@ -2,7 +2,7 @@
 
 A desktop-based GUI application built using **Python and Tkinter** to provide COVID-related information through an intuitive interface. This system delivers useful data, safety tips, and developer contact info — all packed in a lightweight desktop app.
 
----
+----
 
 ## 🚀 Features
 
